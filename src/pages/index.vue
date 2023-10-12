@@ -1,3 +1,13 @@
+<!--
+ * @Author: luckin 1832114807@qq.com
+ * @Date: 2023-10-11 16:41:33
+ * @LastEditors: luckin 1832114807@qq.com
+ * @LastEditTime: 2023-10-11 21:05:29
+ * @FilePath: \vitesse\src\pages\index.vue
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+-->
 <script setup lang="ts">
 defineOptions({
   name: 'IndexPage',
@@ -15,6 +25,7 @@ const { t } = useI18n()
 </script>
 
 <template>
+  <!-- <div>teststes</div> -->
   <div>
     <div text-4xl>
       <div i-carbon-campsite inline-block />
