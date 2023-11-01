@@ -2,7 +2,7 @@
  * @Author: luckin 1832114807@qq.com
  * @Date: 2023-10-11 16:41:33
  * @LastEditors: luckin 1832114807@qq.com
- * @LastEditTime: 2023-11-01 10:07:55
+ * @LastEditTime: 2023-11-01 11:00:40
  * @FilePath: \vitesse\src\layouts\home.vue
  * @Description:
  *
@@ -16,7 +16,7 @@
     <div>绘画</div>
     <div>画廊</div>
     <div>写作</div>
-    <div>思维导图</div>
+    <div>思维导图2</div>
     <div>白板</div>
     <div>签到奖励</div>
     <div>深色</div>
